@@ -4,6 +4,14 @@
 
 - part-time volunteer May, 2018 - present
 
+### Income disclosure
+
+- I have never been paid for work since I started volunteering
+- I have never sold ETH - therefore no speculative income
+- Sometimes (not presently) I am renting out real estate
+- I live rent free
+- I have no other sources of income aside from those listed
+
 ### Research
 
 #### EIPs (co-authored with [Loredana Cirstea](https://github.com/loredanacirstea))
